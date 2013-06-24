@@ -1,0 +1,5 @@
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Infrastructure.Crosscutting\bin\Debug\MusicManager.Infrastructure.Crosscutting.dll
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Infrastructure.Crosscutting\bin\Debug\MusicManager.Infrastructure.Crosscutting.pdb
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Infrastructure.Crosscutting\obj\Debug\MusicManager.Infrastructure.Crosscutting.dll
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Infrastructure.Crosscutting\obj\Debug\MusicManager.Infrastructure.Crosscutting.pdb
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Infrastructure.Crosscutting\obj\Debug\Infrastructure.Crosscutting.csprojResolveAssemblyReference.cache

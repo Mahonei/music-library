@@ -1,0 +1,12 @@
+C:\Users\amerino\Desktop\MusicLibrary\MusicLibrary\Domain.Core\bin\Debug\MusicManager.Domain.Core.dll
+C:\Users\amerino\Desktop\MusicLibrary\MusicLibrary\Domain.Core\bin\Debug\MusicManager.Domain.Core.pdb
+C:\Users\amerino\Desktop\MusicLibrary\MusicLibrary\Domain.Core\obj\Debug\MusicManager.Domain.Core.dll
+C:\Users\amerino\Desktop\MusicLibrary\MusicLibrary\Domain.Core\obj\Debug\MusicManager.Domain.Core.pdb
+C:\Users\mahonei\Desktop\net\MusicLibrary\MusicLibrary\Domain.Core\bin\Debug\MusicManager.Domain.Core.dll
+C:\Users\mahonei\Desktop\net\MusicLibrary\MusicLibrary\Domain.Core\bin\Debug\MusicManager.Domain.Core.pdb
+C:\Users\mahonei\Desktop\net\MusicLibrary\MusicLibrary\Domain.Core\obj\Debug\MusicManager.Domain.Core.dll
+C:\Users\mahonei\Desktop\net\MusicLibrary\MusicLibrary\Domain.Core\obj\Debug\MusicManager.Domain.Core.pdb
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Domain.Core\bin\Debug\MusicManager.Domain.Core.dll
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Domain.Core\bin\Debug\MusicManager.Domain.Core.pdb
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Domain.Core\obj\Debug\MusicManager.Domain.Core.dll
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Domain.Core\obj\Debug\MusicManager.Domain.Core.pdb

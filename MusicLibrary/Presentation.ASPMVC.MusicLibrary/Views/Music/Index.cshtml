@@ -1,0 +1,41 @@
+﻿@model Ext.Net.Node
+
+@Html.X().ResourceManager()
+@{
+    
+    var X = Html.X();
+}
+
+<script>
+    var checkNodeName = function (el, type, action, extraParams) {
+        if (extraParams['node'] == "Genre") {
+            return false;
+        }
+        return true;
+    }
+</script>
+
+<div id="bodyContainer">
+    <div id="leftPanel">
+
+        @( X.TreePanel()
+            .Title("Play List")
+            .Width(200)
+            .Collapsible(true)
+            .UseArrows(true)
+            .RootVisible(false)
+            .MultiSelect(false)
+            .SingleExpand(true)
+            .FolderSort(true)
+            .Root(Model)
+            .DirectEvents(de =>
+            {
+                de.ItemClick.Before = "checkNodeName";
+                de.ItemClick.Url = Url.Action("AllSongs", "Music", null, Request.Url.Scheme);
+                de.ItemClick.ExtraParams.Add(new { node = JRawValue.From("record.data.id") });
+            })
+
+    )
+    </div>
+    @Html.X().Container().ID("rightPanel").ContentFromAction("AllSongs", "Music", new { node = "Music" })
+</div>

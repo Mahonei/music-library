@@ -1,0 +1,26 @@
+﻿#topPan{width:1024px; height:100px; position:relative; top:0; left:0; margin:0 auto; padding:0px; font-size:46px;text-align:center;}
+
+#bodyContainer{
+    width: 1024px;
+    position:relative;
+    list-style: none;
+	padding:0; 
+	margin:0 auto;
+	 border: 1px solid #d3d3d3;
+     overflow:hidden;
+    
+}
+#rightPanel {
+    margin:10px 0px 10px 10px;
+    width:75%;
+    float:right;
+}
+#leftPanel {
+     margin:10px 0px 10px 10px;
+    width:20%;
+    float:left;
+    position: relative;
+}
+
+
+

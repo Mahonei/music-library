@@ -1,0 +1,8 @@
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Infrastructure.Crosscutting.NetFramework\bin\Debug\MusicManager.Infrastructure.Crosscutting.NetFramework.dll
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Infrastructure.Crosscutting.NetFramework\bin\Debug\MusicManager.Infrastructure.Crosscutting.NetFramework.pdb
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Infrastructure.Crosscutting.NetFramework\bin\Debug\AutoMapper.dll
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Infrastructure.Crosscutting.NetFramework\bin\Debug\MusicManager.Infrastructure.Crosscutting.dll
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Infrastructure.Crosscutting.NetFramework\bin\Debug\MusicManager.Infrastructure.Crosscutting.pdb
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Infrastructure.Crosscutting.NetFramework\bin\Debug\AutoMapper.xml
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Infrastructure.Crosscutting.NetFramework\obj\Debug\MusicManager.Infrastructure.Crosscutting.NetFramework.dll
+C:\Users\mahonei\Desktop\MusicLibrary\MusicLibrary\Infrastructure.Crosscutting.NetFramework\obj\Debug\MusicManager.Infrastructure.Crosscutting.NetFramework.pdb
